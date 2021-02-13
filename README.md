@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MatthewDisc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello there!
 
-<!---
-MatthewDisc/MatthewDisc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![banner](https://avatars.githubusercontent.com/u/68120990?s=460&u=b66384a1eb4d12883ff50a16476233fcdf34ce84&v=4)
+
+Your asking who am i?
+- My name is matthew
+- I know JavaScript, typeScript and lot more!
+- Discord bot developer
+- Owner of Bubbly
+
+Join my discord server
+- join my discord server [here](https://discord.gg/quwYTbB7cy)
