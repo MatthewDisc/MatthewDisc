@@ -12,4 +12,4 @@ Join my discord server
 - join my discord server [here](https://discord.gg/quwYTbB7cy)
 
 
-[![stats](https://github-readme-stats.vercel.app/api?username=MatthewDisc_icons=true&theme=radical)](https://github.com/japanesename/github-readme-stats)<br>
+[![stats](https://github-readme-stats.vercel.app/api?username=MatthewDisc&_icons=true&theme=radical)](https://github.com/japanesename/github-readme-stats)<br>
